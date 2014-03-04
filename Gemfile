@@ -43,3 +43,8 @@ end
 
 # Use debugger
 # gem 'debugger', group: [:development, :test]
+
+#gema apara la subida y procesamiento de archivos
+gem 'carrierwave'
+#gema para el tratamiento de imagenes
+gem "rmagick"
